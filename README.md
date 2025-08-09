@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">To-Do List 📝 Este é um projeto de lista de tarefas desenvolvido com HTML, CSS e JavaScript puro. A aplicação permite ao usuário adicionar, remover e marcar tarefas como concluídas. O foco principal é a prática da manipulação do DOM e dos eventos em JavaScript. O layout foi criado com CSS para proporcionar uma interface limpa e responsiva. Os dados são armazenados temporariamente na memória enquanto a página estiver aberta. Ideal para treinar habilidades básicas de front-end e lógica de programação.</p>
+<p align="left">To-Do List 📝 This is a to-do list project developed with pure HTML, CSS, and JavaScript. The app allows the user to add, remove, and mark tasks as completed. The main focus is on practicing DOM manipulation and JavaScript events. The layout was created with CSS to provide a clean. The data is temporarily stored in memory while the page is open. Ideal for practicing basic front-end skills and programming logic. </p>
 
 ###
 
