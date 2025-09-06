@@ -8,7 +8,6 @@
 }
 
 body {
-  background-image: url("../imgs/todo-background.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -51,7 +50,7 @@ select {
 
 /* To do Header */
 .todo-container {
-  max-width: 450px;
+  max-width: 750px;
   margin: 3rem auto 0;
   background-color: #58696d;
   opacity: 1;
